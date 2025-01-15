@@ -101,7 +101,7 @@ main{
 }
 .about-items{
     display: flex;
-    justify-items: auto;
+    justify-content: space-around;
 }
 .item-description{
     font-weight: 600;
